@@ -2,3 +2,5 @@
 A passionate coder, discovering world of coding
 ### Tools & Technologies
 <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-red?style=plastic&label=language&labelColor=black&color=blue">
+
+<img src="https://komarev.com/ghpvc/?username=RASHI3004" alt="counter" />
